@@ -1,2 +1,3 @@
 # project-template-c_utils
-Template for a C project with the utils library
+
+[![semantic-release: angular](https://img.shields.io/badge/semantic--release-angular-e10079?logo=semantic-release)](https://github.com/semantic-release/semantic-release)
